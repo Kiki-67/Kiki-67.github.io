@@ -1,0 +1,12 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - bqplot
+  - numpy
+  - traitlets
+  - ipywidgets
+  - matplotlib
+  - seaborn
+  - plotly
